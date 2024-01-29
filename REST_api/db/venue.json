@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MANSION SPORTS BOX Pluit",
+    "price": "500000",
+    "description": "Mansion Sports Box menawarkan beragam fasilitas olahraga lengkap, termasuk lapangan serbaguna untuk futsal dan bola basket.",
+    "imageUrl": "https://fra1.digitaloceanspaces.com/places/uploads/place/image/file/6105804/2020-07-02.jpg",
+    "address": "Jl. Pluit Raya No.123, RT.3/RW.8, Penjaringan, Jakarta, Jkt Utara, Daerah Khusus Ibukota Jakarta 14450Jl. Pluit Raya No.123, RT.3/RW.8, Penjaringan, Jakarta, Jkt Utara, Daerah Khusus Ibukota Jakarta 14450",
+    "phoneNumber": "081818866",
+    "CategoryId": 1
+  },
+  {
+    "name": "Trinity Arena Badminton Hall Sunter",
+    "price": "80000",
+    "description": "Sobat Mabar ingin coba main badminton di lapangan dengan alas karpet berstandar BWF? Bisa nih main di Trinity Arena, yang berlokasi di Sunter, Jakarta Utara.",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJoFMcgVzI-gztoMC_mKCr9QO0ZVIvwqY7FOU1=s1360-w1360-h1020",
+    "address": "Agung Karya V No.6, Papanggo, Kec. Tj. Priok, Jakarta, Daerah Khusus Ibukota Jakarta 14340",
+    "phoneNumber": "085711882",
+    "CategoryId": 2
+  },
+  {
+    "name": "The Planet Futsal",
+    "price": "200000",
+    "description": "Planet Futsal Mall Artha Gading terdiri dari 2 lapangan dengan rumput syntetis dan Courtile.",
+    "imageUrl": "https://www.theplanetfutsal.com/images/stories/banner%20mag.jpg",
+    "address": "Mall Artha Gading, Jl. Artha Gading Sel. No.1, RT.18/RW.8, Klp. Gading Bar., Kec. Klp. Gading, Jkt Utara, Daerah Khusus Ibukota Jakarta 14250",
+    "phoneNumber": "081806187",
+    "CategoryId": 5
+  },
+  {
+    "name": "Galaxy Sports Center Pik 2",
+    "price": "800000",
+    "description": "Galaxy Sport Center mengajak anak-anak dan orang tua untuk berbagi kebahagiaan dan kompetisi sehat, sembari memperkuat ikatan keluarga dalam semangat merdeka. ",
+    "imageUrl": "https://i.ytimg.com/vi/rDmYwmxMqqU/maxresdefault.jpg",
+    "address": "Jl. PIK 2 Gold Coast",
+    "phoneNumber": "888999",
+    "CategoryId": 3
+  }
+]
